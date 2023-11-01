@@ -75,4 +75,75 @@ main {
   flex-direction: column;
   align-items: center;
   text-align: center;
+  padding-bottom: 10%;
+  padding-top: 5%;
+  font-size: 12px;
+}
+
+#bottomsection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: black;
+  padding: 20%;
+  padding-top: 22%;
+  padding-bottom: 19%;
+  font-size: 12px;
+}
+
+#info {
+  margin: 50px;
+}
+
+#linetop {
+  height: 1px;
+  font-family: "Lobster", cursive;
+  font-size: 30px;
+  color: white;
+  width: 100%;
+  background-color: grey;
+  text-align: center;
+}
+
+#newslettersection {
+  display: flex;
+  background-color: black;
+  font-size: 12px;
+}
+
+#net1 {
+  display: flex;
+  flex-direction: column;
+  margin: 70px;
+}
+
+#net2 {
+  display: flex;
+  flex-direction: column;
+  margin: 70px;
+}
+
+#net3 {
+  display: flex;
+  flex-direction: column;
+  margin: 70px;
+}
+
+#newsletter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 70px;
+  padding-left: 450px;
+}
+
+#linebottom {
+  height: 1px;
+  font-family: "Lobster", cursive;
+  font-size: 30px;
+  color: white;
+  width: 100%;
+  background-color: grey;
+  text-align: center;
 }
