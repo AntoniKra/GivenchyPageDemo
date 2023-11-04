@@ -151,3 +151,22 @@ main {
 #net1 {
   color: aliceblue;
 }
+
+#socialsection {
+  font-size: 12px;
+  background-color: black;
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+}
+
+#currency {
+  display: flex;
+  align-items: center;
+}
+
+#socials {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+}
